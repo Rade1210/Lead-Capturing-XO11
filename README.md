@@ -1,2 +1,2 @@
-# Lead-Generation-XO111
-Lead Generation AI Assistant
+# Lead-Capturing-XO111
+Lead Capturing AI Assistant
