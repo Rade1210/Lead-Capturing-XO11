@@ -8,3 +8,7 @@ Google drive link:
 Please import the downloaded files into your Kore AI environment:
 
 Deploy-> Import/Export
+
+Or:
+
+GitHub pages link: https://rade1210.github.io/Lead-Capturing-XO11/
