@@ -3,7 +3,7 @@
 Lead Capturing AI Assistant
 
 Google drive link:
-https://drive.google.com/drive/search?dmr=1&ec=wgc-drive-hero-goto&q=lead%20generation
+[https://drive.google.com/drive/search?dmr=1&ec=wgc-drive-hero-goto&q=lead%20generation](https://drive.google.com/drive/search?dmr=1&ec=wgc-drive-hero-goto&q=lead%20generation)
 
 Please import the downloaded files into your Kore AI environment:
 
